@@ -16,3 +16,4 @@
 | **yt move &lt;name&gt; &lt;channel&gt;** | !yt move https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw #stem | Moves the notification to another channel. |
 | **yt fmt &lt;name&gt; &lt;channel&gt;** | !yt fmt https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw MATH MATH MATH MATH {link} | Changes the notification message. |
 
+https://youtube.com/c/TomHat
